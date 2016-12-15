@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<web-app xmlns="http://java.sun.com/xml/ns/javaee" version="2.5">
+    <servlet>
+        <servlet-name>MyServlet</servlet-name>
+        <servlet-class>com.example.tupac.myapplication.backend.servlets.MyServlet</servlet-class>
+        <init-param>
+            <param-name>credential</param-name>
+            <param-value>/WEB-INF/Goalify-65f128ce311b.json</param-value>
+        </init-param>
+        <init-param>
+            <param-name>databaseUrl</param-name>
+            <param-value>https://goalify-9d5b4.firebaseio.com/</param-value>
+        </init-param>
+    </servlet>
+    <servlet>
+        <servlet-name>NotificationServlet</servlet-name>
+        <servlet-class>com.example.tupac.myapplication.backend.servlets.NotificationServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>MyServlet</servlet-name>
+        <url-pattern>/printLogs</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>NotificationServlet</servlet-name>
+        <url-pattern>/notifications</url-pattern>
+    </servlet-mapping>
+</web-app>

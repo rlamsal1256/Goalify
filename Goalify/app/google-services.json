@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "190995827288",
+    "firebase_url": "https://goalify-9d5b4.firebaseio.com",
+    "project_id": "goalify-9d5b4",
+    "storage_bucket": "goalify-9d5b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190995827288:android:216ea146f76f403c",
+        "android_client_info": {
+          "package_name": "edu.wpi.goalify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190995827288-pnpo7bf37q1s3p4u6c3bsrfacjahrbf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.wpi.goalify",
+            "certificate_hash": "D35A9068B9611C17CCA0B6B64E54D70A140C5BC4"
+          }
+        },
+        {
+          "client_id": "190995827288-sovode4tvvg2aiig8pmseqm19q4mdhbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx8Ej6CJRa5xZi-SH6GFOr7NrKf_LmP-A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190995827288-sovode4tvvg2aiig8pmseqm19q4mdhbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

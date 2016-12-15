@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "goalify-9d5b4",
+  "private_key_id": "65f128ce311b254497e96a0958cd02049e9cf0be",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDGAp/G23A5KmsW\n3ELxjq7mw+b2PQTf3DAeMfwWC4kUORJw9Bvh++bM5vGj+oEzH1sEetQVTtVUAshV\nsXy0Kzoy34t/Anaga6PSKvyzhK4PdV95Ee3ep9IoSfpYH0TU9qmyaL4065ugVQMK\nwPlKsqMYHeujyHTQBqXEL2OHOw5SC/mBA0D1TyMNlACJUrekhL1ow1uXsLnNSaUQ\nFeZp6Y1x6RHMslc787Kl9odNwtFuMpJnHaKMF2sGZdLVjYRXxI4jMuyGa8Jt7Jtv\nZoAI4S3Zdpi45ARX6mz/MUvFY/VFLp+echrG8zIQWNGVYyQVZJSbGwGZWQbab8Af\ncFbOSJnvAgMBAAECggEAJWRpd8wIrULtZivCGIuxS7LC8s0jFoMmMw2NZTxYbpE4\ngkwW194R/6+9AhJUQ6swLPBlDIEOmAbOfiA+RGfFXcYJObrlW/X3wcCMZ/ouRI0N\nsndITDu03BbcR7ff77eE5EQTZzr28JgdMvKuIQUK94ru7Mb2CDK5Kwsn6GmmkqeK\nx0YjHA16OAAOmmDcHNYBUjz8NHVFPP0USWYCMsBLmJ6x+Ct61RJ3B7S7v/SEdgiF\nO0TRIRnvg8OXGhCxTFkWE92LMz0DwwqnbMSqsXP8WM6g77iLFMNRDLeRVMuByPaO\nxUFmC9o/BC2yOpK2uR148bd5Y4IzFqWdY90drG36AQKBgQD4/Ir+k/bGNxJqn+Ve\ndcztNabtscoyW3UN1RU+gu4y6f/6lBZqvrRiyKp/5G9Eb68SxYgSb0ns7TwRa2BC\nuSEvBPtVYhHwZPjzt+//8qk36lvuqzDi+svb0GXNVKVEURfnu5h6lwVVpnk7iAji\ncHI5gIM1FjA5tn/cigjuDgWeIQKBgQDLln0CSyiTAKgr9AdxY/WTdn9BBc7Ugyh2\nqX8sxKzzFgMEi5FvtGiY9l9RnZzu6BITfktWElBgMZcUXpjqTn7qWeGPLsWR07MQ\n+ZIlm3VmXMHDvL+mIrzQEKobZGYwHchzdp8kdr/MOp0YcjGvxp4/ppTr5GNpLAf3\nPs4kNa2WDwKBgQCGZVLlbZrDjVB8i0h0v2NZGx+6p7/7hJBfYggwkN3gT5yjdjHP\ndpbJx4T4uaYxq5M1r7fuM3IU2E0XHf18po854ReFFAWY2/fhHgUHA8XBb9glsPQX\nYMaPJSL+PVVj1d3wcLsyWLhBbjV8I8af65BMZ4jrK8nmLRNBSKTfUmRH4QKBgEcQ\nNHqEeZk2dX1CJQbzeVkL18d+m3+aeJlS+M1LqYMAf/UqMo3nT0t1VDhM5+aMoyKi\nxvE4W034gV/e1UmUNMDgttcf4F7SooKeWuE9rnEYl5oXXF5FadrGtlnxZaoN+1Yy\nZcJ4oOJM42ERGz7b+YkGQJ1Gj1y6vd0T0yjYg8sJAoGBALtAZU4bJqwfgan5OLmK\n3d3uOoDPJUh1s+CCEN/r47lZLuFCcC96ricrFwy3sVRxOt0Xxa+kvi7aEuiZRtKz\nkwsOBKkK62prMn+dZbBIDErVMosTzqSn8yrIcIb0OQOLwHaOIW5c7fXzPmmzAfCa\nhuiCOU8bYaT/TX3v5j4y16mQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "crowdscores-servlet@goalify-9d5b4.iam.gserviceaccount.com",
+  "client_id": "105124360907383384712",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/crowdscores-servlet%40goalify-9d5b4.iam.gserviceaccount.com"
+}
